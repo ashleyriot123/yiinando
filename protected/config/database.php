@@ -6,10 +6,10 @@ return array(
 */
 	// uncomment the following lines to use a MySQL database
 
-	'connectionString' => 'mysql:host=localhost;dbname=yiinando',
+	'connectionString' => 'mysql:host=localhost;dbname=id1090608_yiinando',
 	'emulatePrepare' => true,
-	'username' => 'root',
-	'password' => '123',
+	'username' => 'id1090608_root',
+	'password' => 'nando123',
 	'charset' => 'utf8',
 
 );
